@@ -1,9 +1,9 @@
-spotipy==2.19.0
+spotipy==2.22.1
 ytmusicapi==0.21.0
 python-dotenv==0.20.0
-yt-dlp==2022.4.8
-requests==2.27.1
-aiohttp==3.8.1
+yt-dlp==2024.7.1
+requests==2.32.2
+aiohttp==3.9.4
 mutagen==1.45.1
-yt-dlp==2022.4.8
+yt-dlp==2024.7.1
 inquirerpy==0.3.3
